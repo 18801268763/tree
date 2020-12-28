@@ -54,7 +54,7 @@
     "@types/react-dom": "^16.8.4",
     "@types/warning": "^3.0.0",
     "@umijs/fabric": "^2.4.8",
-    "css-animation": "^1.2.0",
+    "css-animation": "^2.0.4",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "enzyme-to-json": "^3.0.0",
